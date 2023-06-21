@@ -2,10 +2,14 @@
 <br />
 <div align="center">
   <h1 align="center">React-hook-form & Tailwind CSS</h1>
+
+  <p align="center">
+    <a href="https://form-with-tailwind.vercel.app/">View Demo</a>
+	</p>
 </div>
 
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 A simple react form
@@ -19,6 +23,7 @@ A simple react form
 - react-select
 
 <!-- GETTING STARTED -->
+
 ### Installation
 
 1. Clone the repo
@@ -35,6 +40,7 @@ A simple react form
    ```
 
 <!-- CONTACT -->
+
 ## Contact
 
 Regina - reina5425@gmail.com
