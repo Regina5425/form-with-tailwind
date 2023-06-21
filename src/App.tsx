@@ -195,13 +195,13 @@ const App: React.FC = (): JSX.Element => {
         </form>
         {formData.name && (
           <div className='border border-blue-600 rounded-md p-2'>
-            <h2 className='font-bold text-xl'>Your data is:</h2>
-            <p>Your name: {formData.name}</p>
-            <p>Your age: {formData.age}</p>
-            <p>Your country: {formData.country}</p>
-            <p>Your gender: {formData.gender}</p>
-            <p>Your email: {formData.email}</p>
-            <p>Your phone: {formData.phone}</p>
+            <h2 className='font-bold text-xl mb-2'>Your data is:</h2>
+            <p className="mb-2">Your name: {formData.name}</p>
+            <p className="mb-2">Your age: {formData.age}</p>
+            <p className="mb-2">Your country: {formData.country}</p>
+            <p className="mb-2">Your gender: {formData.gender}</p>
+            <p className="mb-2">Your email: {formData.email}</p>
+            <p className="mb-2">Your phone: {formData.phone}</p>
             <p>Your comment: {formData.comment}</p>
           </div>
         )}
